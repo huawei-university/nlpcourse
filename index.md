@@ -1,4 +1,7 @@
 # Natural Language Processing course
+_To join the course please follow the [link](https://forms.gle/EjLbmRjCyH6YEqNx8)!_
+
+Official support channel: [#huawei_nlp_course](https://opendatascience.slack.com/archives/CUGP21CKU) in [ODS.ai](https://ods.ai) slack. If you are not registered, please join the community.
 
 ## Lecturers:
 * Valentin Malykh ([personal page](http://val.maly.hk))
