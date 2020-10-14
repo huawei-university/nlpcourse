@@ -1,37 +1,165 @@
-## Welcome to GitHub Pages
+# Natural Language Processing course
 
-You can use the [editor on GitHub](https://github.com/huawei-university/nlpcourse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Lecturers:
+* Valentin Malykh 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Teaching Assitants:
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Logistics:
+The lectures are presented at **18:30** MSK each **Tuesday** **online**.
+Course started: 29th of September 2020
+The main lectures end: 1st of December 2020
 
-```markdown
-Syntax highlighted code block
+## Description
 
-# Header 1
-## Header 2
-### Header 3
+Natural Language Processing (NLP) is a domain of research whose objective is to analyze and understand human languages and develop technologies to enable human machine interactions with natural languages.  NLP is an interdisciplinary field involving linguistics, computer sciences and artificial intelligence.  The goal of this course is to provide students with comprehensive knowledge of NLP.  Students will be equiped with the principles and theories of NLP, as well as various NLP technologies, including rule-based, statistical and neural network ones.  After this course, students will be able to conduct NLP research and develop state-of-the-art NLP systems. 
 
-- Bulleted
-- List
+## Syllabus
 
-1. Numbered
-2. List
+### Unit 1: Introduction and Basic Text Processing
 
-**Bold** and _Italic_ and `Code` text
+* Lecture 01:
+    * Theories:
+        * NLP Research Questions and Tasks
+        * Math & Lingustics Background
+        * Chomsky Hierarchy of Grammars and Automata
+        * Text Segmentation
+        * Tokenization and Stemming
+        * Morphology and Universal Morphology Corpus
+        * Word frequncies and Zipf's Law
+        * Collocations and Multi-word Expressions
+    * Practice:
+        * Python Programming & NumPy & Jupyter Notebook
+        * NLTK
 
-[Link](url) and ![Image](src)
-```
+### Unit 2: NLP Techniques
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Lecture 02:
+    * Theories:
+        * Machine Learning basics
+        * Classifiers, Logistic Regressions
+        * Stochastic Gradient Descend
+        * Vector Space Models and TF-IDFs
+        * Text Classification
+        * Sentiment Analysis
+    * Practice:
+        * PyTorch & TensorFlow
+        * Assignment 1: Word2Vec
 
-### Jekyll Themes
+* Lecture 03:
+    * Theories:
+        * Distributional Semantics and Word Embeddings
+        * Word2Vec and Evaluation
+        * Softmax and Cross-entropy Loss
+        * GLoVe, Fasttext
+    * Practice:
+        * Word2Vec, Doc2Vec
+    * Assignment:
+        * 1st assignment is open.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huawei-university/nlpcourse/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Lecture 04:
+    * Theories:
+        * Artificial Neural Networks (ANNs)
+        * Multilayer Perceptrons (MLPs)
+        * Backpropagation
+        * Convolutional Neural Networks (CNN)
+        * Text Classification with CNNs
+    * Practice:
+        * Topiс Modeling and Visualization
 
-### Support or Contact
+* Lecture 05:
+    * Theories:
+        * Part-of-Speech (POS) Tagging
+        * Named Entity Recognition (NER)
+        * Maximum Entropy (ME)
+        * Sequence Labelling
+        * Hidden Markov Models (HMMs)
+        * Viterbi Search and Forward-Backword Algorithm
+        * Conditional Random Fields (CRFs)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+* Lecture 06:
+    * Theories:
+        * Neural Language Models
+        * Recurrent Neural Networks (RNNs)
+        * Long Short Term Memory (LSTM) Units
+        * Bi-LSTM-CRF Models for Sequence Labeling
+    * Practice:
+        * Neural Networks Tips and Tricks
+        * Regularizations
+        * Dropout
+        * Initialization
+    * Assignments:
+        * Assignment 1 Answers
+
+* Lecture 07:
+    * Theories:
+        * Syntactic Parsing
+        * Treebanks
+        * Probabilistic Phrase Structure Grammars (PCFGs)
+        * Constituent Parings with PCFG
+        * Dependency Parsing
+        * Parsing with Neural Networks
+        * Semantic Role Labeling (optional)
+        * Coreference Resolution (optional)
+        * Discourse Parsing (optional)
+    * Practice:
+        * Final Project Selection
+
+### Unit 3: NLP Applications
+
+* Lecture 08:
+    * Theories:
+        * Statistical Machine Translation
+        * Statistical Language Models
+        * IBM Models
+        * Log-linear Framework and Phrase-based Models
+        * Beam Search Decoding
+        * Machine Translation Evaluation and BLEU
+        * Sequence-to-sequence Models
+        * Attention Mechanisms
+        * RNN-based Neural Machine Translation (NMT)
+    * Practice:
+        * RNN-based NMT
+
+* Lecture 09:
+    * Theories:
+        * Subword Level and Character Level NMT
+        * Transformers
+        * Transformer-based NMT
+        * Pre-trained Language Models
+        * BERT
+        * GPT-2
+    * Practice:
+        * Transformers
+
+* Lecture 10:
+    * Theories:
+        * Question Answering
+        * Semantic Parsing (optional)
+        * Dialog
+
+    
+* Lecture 11 (Guest):
+    * Theories:
+        * Guest Lectures
+    * Practice:
+    
+* Lecture 12 (Project Presentation):
+    * Theories:
+    * Practice:
+        * Final Project Presentation
+
+## Prerequisites
+
+* Basic Python Programming
+* College Calculus, Linear Algebra
+* Basic Probability and Statistics
+* Foundations of Machine Learning
+
+### Assignments
+There will be two assignments on the course.
+
+### Projects
+The participants will be suggested to work on a project during the course. The successfull project development is crucial to pass the course.
