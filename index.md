@@ -1,14 +1,16 @@
 # Natural Language Processing course
 
 ## Lecturers:
-* Valentin Malykh 
+* Valentin Malykh ([personal page](http://val.maly.hk))
 
 ## Teaching Assitants:
 
 
 ## Logistics:
 The lectures are presented at **18:30** MSK each **Tuesday** **online**.
+
 Course started: 29th of September 2020
+
 The main lectures end: 1st of December 2020
 
 ## Description
@@ -163,3 +165,5 @@ There will be two assignments on the course.
 
 ### Projects
 The participants will be suggested to work on a project during the course. The successfull project development is crucial to pass the course.
+
+The projects from previous semester are available [here](https://github.com/huawei-university/nlp-course-projects).
