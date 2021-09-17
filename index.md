@@ -1,7 +1,7 @@
 # Natural Language Processing course
 _To join the course please follow the [link](https://forms.gle/EjLbmRjCyH6YEqNx8)!_
 
-Official support channel: [#huawei_nlp_course](https://opendatascience.slack.com/archives/CUGP21CKU) in [ODS.ai](https://ods.ai) slack. If you are not registered, please join the community.
+Official support channel: [#course_nlp_huawei](https://opendatascience.slack.com/archives/CUGP21CKU) in [ODS.ai](https://ods.ai) slack. If you are not registered, please join the community.
 
 ## Lecturers:
 * Valentin Malykh ([personal page](http://val.maly.hk))
@@ -10,11 +10,11 @@ Official support channel: [#huawei_nlp_course](https://opendatascience.slack.com
 
 
 ## Logistics:
-The lectures are presented at **18:30** MSK each **Tuesday** **online**.
+The lectures are presented at **10:15** MSK each **Tuesday** **online**.
 
-Course started: 29th of September 2020
+Course started: 14th of September 2020
 
-The main lectures end: 1st of December 2020
+The main lectures end: 16th of November 2020
 
 ## Description
 
