@@ -1,6 +1,4 @@
 # Natural Language Processing course
-_To join the course please follow the [link](https://forms.gle/EjLbmRjCyH6YEqNx8)!_
-
 Official support channel: [#course_nlp_huawei](https://opendatascience.slack.com/archives/CUGP21CKU) in [ODS.ai](https://ods.ai) slack. If you are not registered, please join the community.
 
 ## Lecturers:
